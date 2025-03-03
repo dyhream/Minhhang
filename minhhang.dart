@@ -513,19 +513,6 @@ var ParticlePool = (function() {
   }, 10);
 
 })(document.getElementById('pinkboard'));
-# Bỏ qua các thư mục hệ thống
-/Application Data/
-/AppData/
-/Cookies/
-/Documents/
-/Local Settings/
-/My Documents/
-/NetHood/
-/PrintHood/
-/Recent/
-/SendTo/
-/Start Menu/
-/Templates/
 
   </script>
 

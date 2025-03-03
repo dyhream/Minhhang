@@ -1,0 +1,27 @@
+# Bỏ qua các tệp hệ thống và các tệp cá nhân không cần thiết
+*.log
+*.dat
+*.ini
+*.bak
+*.swp
+.vscode/
+.DS_Store
+Thumbs.db
+Application Data/
+AppData/
+Local Settings/
+NTUSER.DAT*
+ntuser.dat.*
+Application Data/
+Cookies/
+Documents/
+Downloads/
+Favorites/
+Music/
+Pictures/
+Videos/
+Desktop/
+AppData/
+*.dat
+*.log
+*.ini
