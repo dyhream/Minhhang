@@ -1,27 +1,28 @@
-# Bỏ qua các tệp hệ thống và các tệp cá nhân không cần thiết
-*.log
-*.dat
-*.ini
-*.bak
-*.swp
+# Ignore .vscode folder
 .vscode/
-.DS_Store
-Thumbs.db
-Application Data/
+
+# Ignore Windows user profile folders
 AppData/
-Local Settings/
-NTUSER.DAT*
-ntuser.dat.*
 Application Data/
+Contacts/
 Cookies/
+Desktop/
 Documents/
 Downloads/
 Favorites/
+Links/
+Local Settings/
 Music/
+My Documents/
 Pictures/
+Saved Games/
+Searches/
 Videos/
-Desktop/
-AppData/
-*.dat
-*.log
-*.ini
+
+# Ignore system files (e.g., NTUSER)
+NTUSER.DAT*
+ntuser.dat.LOG*
+ntuser.ini
+
+# Ignore specific desktop.ini files
+desktop.ini
